@@ -41,4 +41,4 @@ ipyleaflet
 plotly>=5,<6
 bqplot
 jupyterlab_legos_ui
-pip install jupyterlab_darkside_ui
+jupyterlab_darkside_ui
