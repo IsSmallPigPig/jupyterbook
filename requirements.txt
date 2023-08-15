@@ -25,8 +25,6 @@ jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 # JupyterLab: guided tour (optional)
 jupyterlab-tour
-# JupyterLab: chesterish theme
-chesterish
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.0.0,<9
@@ -42,3 +40,4 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+chesterish
