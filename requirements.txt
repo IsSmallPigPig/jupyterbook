@@ -25,10 +25,8 @@ jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 # JupyterLab: guided tour (optional)
 jupyterlab-tour
-# JupyterLab: dark theme
-jupyterlab-night
-# JupyterLab: Miami nights theme (optional)
-jupyterlab_miami_nights
+# JupyterLab: chesterish theme
+chesterish
 
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.0.0,<9
