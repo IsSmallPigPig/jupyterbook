@@ -40,4 +40,5 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
-onedarkpro
+jupyterlab_legos_ui
+pip install jupyterlab_darkside_ui
